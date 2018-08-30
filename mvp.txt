@@ -1,0 +1,23 @@
+Visão mvp 24mim
+
+- è não é
+
+- O que não faz
+
+> personas 28mim
+
+- Pessoa mais 
+- Perfil
+- Comportamento
+- Nescessidade
+
+> Funcionalidades
+- Eu como: persona   
+- Eu Quero: funcionalidade  
+- Para: Objetivo(controlar minha agenda)
+
+> Esforço inpacto
+- Esquema de cores
+verde - Certeza
+Amarelo - alguma unserteza
+Vermelho -    
