@@ -1,0 +1,14 @@
+1.Caregar dados de um arquivo para outro no java script
+
+2.Busca por id dentro do java stript 
+
+3.Como definir uma url do saite para acessar do heroku
+
+4.Como aplicar o PWa no dispositivo movel
+
+5.Uma forma de carregar sempre filtrado por usuário
+
+6. Como deixar sempre em execução a leitura de notificações mesmo que saite estiver fechado
+
+7. Se campos como o id no html em formularios diferentes podem dar erro quando executados apartir do java script 
+
